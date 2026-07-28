@@ -1,5 +1,11 @@
 # citation-js-utils
 
+## 1.2.9
+
+### Patch Changes
+
+- 95aa76d: Update package metadata
+
 ## 1.2.8
 
 ### Patch Changes
